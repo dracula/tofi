@@ -6,6 +6,8 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 ```bash
 git clone https://github.com/dracula/tofi.git
+cd tofi.git
+cp themes/dmenu ~/.config/tofi/config
 ```
 
 #### Install manually
@@ -14,8 +16,8 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/tofi/arch
 
 #### Activating theme
 
-1. Select your preferred style for your menu launcher by running `style=dmenu`
-   or `style=rofi`.
-2. Run `mv $style-config ~/.config/tofi/config`.
-3. Check the style is set properly by running `tofi-run`.
+1. Select your preferred theme between `dmenu` or `rofi`.
+2. Move the configuration of the selected theme to `~/.config/tofi/config`. For
+   example for `dmenu` run `cp themes/dmenu ~/.config/tofi/config`.
+3. Check the theme was properly selected by executing `tofi-run`.
 
