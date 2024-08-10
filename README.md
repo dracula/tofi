@@ -2,10 +2,12 @@
 
 > A dark theme for [tofi](https://github.com/philj56/tofi).
 
+The following themes are available:
+
 ## Dmenu
 ![Screenshot](./screenshot.png)
 
-## Rofi:
+## Rofi
 ![Screenshot](./screenshot-rofi.png)
 
 ## Install
