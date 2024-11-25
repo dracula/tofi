@@ -5,9 +5,11 @@
 The following themes are available:
 
 ## Dmenu
+
 ![Screenshot](./screenshot.png)
 
 ## Rofi
+
 ![Screenshot](./screenshot-rofi.png)
 
 ## Install
@@ -19,8 +21,8 @@ All instructions can be found at [draculatheme.com/tofi](https://draculatheme.co
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/tofi/graphs/contributors).
 
 | [![JuanSe Cárdenas-Rodríguez](https://github.com/juanscr.png?size=100)](https://github.com/juanscr) |
-| --------------------------------------------------------------------------------------------- |
-| [JuanSe Cárdenas-Rodríguez](https://github.com/juanscr)                                               |
+| --------------------------------------------------------------------------------------------------- |
+| [JuanSe Cárdenas-Rodríguez](https://github.com/juanscr)                                             |
 
 ## Community
 

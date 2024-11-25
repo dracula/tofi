@@ -20,4 +20,3 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/tofi/arch
 2. Move the configuration of the selected theme to `~/.config/tofi/config`. For
    example for `dmenu` run `cp themes/dmenu ~/.config/tofi/config`.
 3. Check the theme was properly selected by executing `tofi-run`.
-
